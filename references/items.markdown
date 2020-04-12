@@ -10,5 +10,5 @@ TBA
 
 | Item ID | Item | Post |
 |:--------| :--- | :--- |
-| F1-R1-ITM01 | Dull Glowing Orb | [The Cylinder Cells (F1-R1)](/posts/F1-R1) |
+| F1-R1-ITM01 | Glowing Orb | [The Cylinder Cells (F1-R1)](/posts/F1-R1) |
 | F1-R1-ITM02 | Preserving Liquid | [The Cylinder Cells (F1-R1)](/posts/F1-R1) |

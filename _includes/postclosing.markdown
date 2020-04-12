@@ -1,6 +1,6 @@
 ## Closing
 
-What's all this about? Check out the [**Welcome**](/posts/welcome/) page.
+What's all this about? Check out the [**Welcome**](/welcome/) page.
 
 Want more information on how Escape the Dungeon works? Take a look at the [**About**](/about/) page.
 
