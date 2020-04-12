@@ -4,7 +4,7 @@ title:  "The Cylinder Cells (F1-R1)"
 date:   2020-04-11 04:00:00
 categories: room update
 permalink: /posts/F1-R1/
-published: true
+published: false
 ---
 ## Room Description
 
