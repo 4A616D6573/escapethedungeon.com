@@ -35,7 +35,7 @@ A palm sized orb, pulsing a dull white glow. A medium magic check will reveal th
 
 **Glass Vials (F1-R1-FP02)**
 
-Empty thin long glass vials, A very easy inspection check will reveal that these vials socket into a metal ring at the base of the cylinders in the room.
+Empty thin long glass vials, A very easy inspection check will reveal that these vials socket into a metal ring at the base of the cylinders.
 
 **Exits (F1-R1-FP03)**
 
