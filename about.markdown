@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome
-permalink: /welcome/
+title: About
+permalink: /about/
 ---
 
 # The Idea

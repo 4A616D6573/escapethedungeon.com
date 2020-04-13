@@ -6,7 +6,8 @@ permalink: /references/rooms/
 
 TBA
 
-**How To Use:** The below table can be used to easy view all posted rooms.
+**How To Use:** The below table can be used to view all posted rooms within the dungeon.
+
 
 | Room ID | Room | Floor | Room | Post |
 |:--------| :--- | :--- | :--- | :--- |
