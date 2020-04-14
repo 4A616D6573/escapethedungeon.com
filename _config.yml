@@ -20,7 +20,7 @@
 
 title: Escape the Dungeon
 email:
-description: Escape the Dungeon is a weekday blog that posts rooms filled with challenges to be used in table top role playing games.
+description: Escape the Dungeon is a blog that posts individual dungeon rooms filled with challenges to be used in table top role playing games.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://escapethedungeon.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
