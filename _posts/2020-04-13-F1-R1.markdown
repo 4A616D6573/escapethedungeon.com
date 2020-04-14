@@ -14,7 +14,7 @@ In the center of a room is a stone pedestal, top it sits an orb pulsing a dull w
 
 In the middle of each side of the room is a closed wooden door.
 
-![The Cylinder Cells (F1R1)](/assets/maps/rooms/escapethedungeon-f1-r1.png)
+![The Cylinder Cells (F1R1)](/assets/maps/rooms/escapethedungeon-f1-r1-pc.png)
 
 ---
 
