@@ -40,7 +40,7 @@ Below a table describing the elements used within Escape the Dungeon.
 |:--------| :--- | :--- |
 | Floor | A level within the dungeon. | F# |
 | Room | A room within the dungeon. | R# |
-| Focus Point | An idea of interest within a room. | FP# |
+| Focus Point | An area of interest within a room. | FP# |
 | Item | A retrievable item within the dungeon that provides some function. | ITM# |
 | Character | A being that exists within the dungeon. | CHR# |
 | Faction | A group within the dungeon, usually made up of one or more Characters. | FAC# |
