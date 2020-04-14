@@ -26,6 +26,13 @@ url: "https://escapethedungeon.com" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 
+header_pages:
+  - about.markdown
+  - references/rooms.markdown
+  - references/items.markdown
+  - references/characters.markdown
+  - references/factions.markdown
+
 # Build settings
 theme: minima
 plugins:
@@ -65,3 +72,10 @@ commonmark:
 
 # Google Analytics
 google_analytics: UA-93962375-2
+
+# Show Excerpts
+show_excerpts: true
+
+# Enable Paginiation
+# paginate: 2
+# paginate_path: ""
