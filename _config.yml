@@ -23,13 +23,14 @@ email:
 description: Escape the Dungeon is a weekday blog that posts rooms filled with challenges to be used in table top role playing games.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://escapethedungeon.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 4A616D6573
-github_username:  4A616D6573
+twitter_username:
+github_username:
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+#  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,8 +53,13 @@ plugins:
 #   - vendor/ruby/
 
 # Custom configuration
+
+# Common Markdown GitHub Pages
 markdown: CommonMarkGhPages
 
 # https://github.com/github/jekyll-commonmark-ghpages
 commonmark:
   extensions: ["table"]
+
+# Google Analytics
+google_analytics: UA-93962375-2
