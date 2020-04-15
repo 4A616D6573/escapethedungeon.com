@@ -1,14 +1,9 @@
 ---
 layout: page
-title: Rooms
-permalink: /references/rooms/
+title: Floors
+permalink: /references/floors/
 ---
 
-TBA
+## Floor One
 
-**How To Use:** The below table can be used to view all posted rooms within the dungeon.
-
-
-| Room ID | Room | Floor | Room | Post |
-|:--------| :--- | :--- | :--- | :--- |
-| F1-R1 | The Cylinder Cells | One | One | [The Cylinder Cells (F1-R1)](/posts/F1-R1) |
+{% svg "assets/maps/floors/escapethedungeon-f1.svg" display="block" %}
