@@ -4,8 +4,6 @@ title: Characters
 permalink: /references/characters/
 ---
 
-TBA
-
 **How To Use:** The below table can be used to view all posted characters within the dungeon.
 
 <details><summary><b>Spoilers:</b> Character Reference Table</summary>
