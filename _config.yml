@@ -32,6 +32,7 @@ header_pages:
   - references/items.markdown
   - references/characters.markdown
   - references/factions.markdown
+  - references/floors.markdown
 
 # Build settings
 theme: minima
@@ -39,6 +40,7 @@ plugins:
   - jekyll-feed
   - jekyll-target-blank
   - jekyll-seo-tag
+  - jekyll-inline-svg
 #  - jekyll-paginate
 
 # Exclude from processing.

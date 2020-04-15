@@ -18,6 +18,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-commonmark-ghpages'
   gem 'jekyll-target-blank'
+  gem "jekyll-inline-svg"
 #  gem 'jekyll-paginate'
 end
 
