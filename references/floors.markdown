@@ -6,4 +6,5 @@ permalink: /references/floors/
 
 ## Floor One
 
-{% svg "assets/maps/floors/escapethedungeon-f1.svg" display="block" %}
+<!-- Commented out while troublshooting. -->
+<!--{% svg "assets/maps/floors/escapethedungeon-f1.svg" display="block" %}-->
