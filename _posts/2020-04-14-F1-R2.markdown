@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Sorting Room (F1-R2)"
-date:   2020-04-15
+title: "The Sorting Room (F1-R2)"
+date: 2020-04-15
 categories: room update
 permalink: /posts/F1-R2/
 published: true

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "The Cylinder Cells (F1-R1)"
-date:   2020-04-13
+title: "The Cylinder Cells (F1-R1)"
+date: 2020-04-13
 categories: room update
 permalink: /posts/F1-R1/
 published: true
+excerpts: A large square room filled with floor to ceiling glass cylinders. Each cylinder is filled with a light blue liquid and contains some kind of humanoid form.
 ---
 
 A large square room filled with floor to ceiling glass cylinders. Each cylinder is filled with a light blue liquid and contains some kind of humanoid form.

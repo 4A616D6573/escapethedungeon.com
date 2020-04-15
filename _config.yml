@@ -76,7 +76,7 @@ commonmark:
 google_analytics: UA-93962375-2
 
 # Show Excerpts
-show_excerpts: true
+show_excerpts: false
 
 # Enable Paginiation
 # paginate: 2
