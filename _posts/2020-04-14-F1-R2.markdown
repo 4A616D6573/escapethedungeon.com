@@ -5,6 +5,7 @@ date: 2020-04-15
 categories: room update
 permalink: /posts/F1-R2/
 published: true
+excerpt: A long rectangle room with six stone tables flanking either side. Atop the tables sit piles of assorted combat and adventuring equipment in varying condition.
 ---
 
 A long rectangle room with six stone tables flanking either side. Atop the tables sit piles of assorted combat and adventuring equipment in varying condition.
