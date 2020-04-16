@@ -19,6 +19,7 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
   gem 'jekyll-target-blank'
   gem "jekyll-inline-svg"
+#  gem "github-pages"
 #  gem 'jekyll-paginate'
 end
 
@@ -31,6 +32,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-
-# Custom configuration
-gem "github-pages", group: :jekyll_plugins
