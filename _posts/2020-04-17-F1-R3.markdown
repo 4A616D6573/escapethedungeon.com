@@ -1,0 +1,59 @@
+---
+layout: post
+title: "The Keyhole Room (F1-R3)"
+date: 2020-04-17
+categories: room update
+permalink: /posts/F1-R3/
+published: true
+excerpt: A wide rectangle room, on the eastern wall above a small stone platform stands a metal panel displaying countless oddly laid out keyholes.
+---
+
+A wide rectangle room, on the eastern wall above a small stone platform stands a metal panel displaying countless oddly laid out keyholes.
+
+The panel is illuminated by strange purple flames that float in sconces on either side of the panel and around the room.
+
+At the southern end of the room stands a closed metal door with no visible handles.
+
+![The Keyhole Room (F1R3)](/assets/maps/rooms/escapethedungeon-f1-r3-pc.png)
+
+---
+
+## Game Master
+
+<details><summary><b>Spoilers:</b> Game Master References</summary>
+&nbsp;
+
+# Focus Points
+
+**Keyhole Panel (F1-R3-FP01)**
+
+The panel appears to be made of polished silver and stands 35 feet across and is almost floor to ceiling in height. Worked into the panel are countless keyholes of varying designs and appear to fit different kinds of keys. Above each keyhole is a symbol that has been worked into the silver, these are also of varying style.
+
+*Note:* Keys for this room will be discoverable throughout the dungeon. The post in which a key is presented will list what it unlocks within this room, once used on the panel.
+
+**Exits (F1-R2-FP02)**
+
+A large metal door made of silver that sits flush with the walls of the room, the door is also adorned with fancy scrollwork that has been etched into the surface. The door does not have any visible handles and the gaps between the door and the walls are too small to gain leverage with any kind of dungeoneering tool.
+
+*Note:* A key used on the panel will open the door, the Room ID has been left out and will be added when the key is placed in the dungeon.
+
+</details>
+&nbsp;
+
+---
+
+## Authors Notes
+
+<details><summary><b>Spoilers:</b> Contains Game Master References</summary>
+&nbsp;
+
+This room originally started as "The Hollow Room" which had a number of oddly shaped holes in the wall, however I thought that keyholes might be more interesting.
+
+I want to give the adventures places to come back to and get "rewards", setting this up with a future reveal system allows flexibility so keys can be sprinkled into future posts. I also didn't have to come up with a heap of cool "rewards" right away.
+
+</details>
+&nbsp;
+
+---
+
+{% include postclosing.markdown %}
