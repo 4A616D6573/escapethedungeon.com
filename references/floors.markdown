@@ -4,6 +4,8 @@ title: Floors
 permalink: /references/floors/
 ---
 
+**How To Use:** The below floor maps can be used to view and navigate rooms within the dungeon.
+
 <details><summary><b>Spoilers:</b> Floor Maps</summary>
 &nbsp;
 
