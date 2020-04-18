@@ -14,7 +14,7 @@ The panel is illuminated by strange purple flames that float in sconces on eithe
 
 At the southern end of the room stands a closed metal door with no visible handles.
 
-![The Keyhole Panel (F1R3)](/assets/maps/rooms/escapethedungeon-f1-r3-pc.png)
+![The Keyhole Panel (F1-R3)](/assets/maps/rooms/escapethedungeon-f1-r3-pc.png)
 
 ---
 
