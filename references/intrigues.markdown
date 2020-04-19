@@ -9,7 +9,7 @@ permalink: /references/intrigues/
 <details><summary><b>Spoilers:</b> Intrigue Reference Table</summary>
 &nbsp;
 
-| Intrigues ID | Intrigues | Post |
+| Intrigue ID | Intrigues | Post |
 |:--------| :--- | :--- |
 | - | - | - |
 <!--| F1-R3-INT01 | Keyhole Panel | [The Keyhole Panel (F1-R3)](/posts/F1-R3) |-->
