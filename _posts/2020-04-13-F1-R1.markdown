@@ -29,15 +29,15 @@ You and a number of unfamiliar companions awake to the feeling of stale air pass
 
 # Focus Points
 
-**Glowing Orb (F1-R1-FP01)**
+**Glowing Orb**
 
 A palm sized orb, pulsing a dull white glow. A medium magic check will reveal the orb is operating a reduced capacity but its true function is still unknown.
 
-**Glass Vials (F1-R1-FP02)**
+**Glass Vials**
 
 Empty thin long glass vials, A very easy inspection check will reveal that these vials socket into a metal ring at the base of the cylinders.
 
-**Exits (F1-R1-FP03)**
+**Exits**
 
 Above each door is a sign that denotes a direction. "North", "East", "South", and "West" following a clockwise direction. All doors are unlocked.
 

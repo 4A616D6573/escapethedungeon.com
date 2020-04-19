@@ -25,13 +25,13 @@ At the southern end of the room stands a closed metal door with no visible handl
 
 # Focus Points
 
-**Keyhole Panel (F1-R3-FP01)**
+**Keyhole Panel (F1-R3-INT01)**
 
 The panel appears to be made of polished silver and stands 35 feet across and is almost floor to ceiling in height. Worked into the panel are countless keyholes of varying designs and appear to fit different kinds of keys. Above each keyhole is a symbol that has been worked into the silver, these are also of varying style.
 
 *Note:* Keys for this room will be discoverable throughout the dungeon. The post in which a key is presented will list what it unlocks within this room, once used on the panel.
 
-**Exits (F1-R3-FP02)**
+**Exits**
 
 A large metal door made of silver that sits flush with the walls of the room, the door is also adorned with fancy scrollwork that has been etched into the surface. The door does not have any visible handles and the gaps between the door and the walls are too small to gain leverage with any kind of dungeoneering tool.
 

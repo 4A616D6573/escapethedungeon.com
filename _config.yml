@@ -29,6 +29,7 @@ github_username:
 header_pages:
   - about.markdown
   - references/rooms.markdown
+  - references/intrigues.markdown
   - references/items.markdown
   - references/characters.markdown
   - references/factions.markdown
