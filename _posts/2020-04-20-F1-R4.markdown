@@ -53,7 +53,7 @@ Fine gemstones of vary colors and shapes speckle the statue, one of the gemstone
 
 **Owl Key (F1-R4-ITM02)**
 
-A short bronze key with the symbol of an owl etched into the bow. Using this key on the [Keyhole Panel](/references/intrigues/) in The [Keyhole Room](/posts/F1-R3/) will materialise Credius' Bird Cage into the centre of the room.
+A short bronze key with the symbol of an owl etched into the bow. Using this key on the [Keyhole Panel](/references/intrigues/) in [The Keyhole Room (F1-R3)](/posts/F1-R3/) will materialise Credius' Bird Cage into the centre of the room.
 
 **Credius' Bird Cage (F1-R4-ITM03)**
 

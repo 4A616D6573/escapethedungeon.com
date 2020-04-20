@@ -11,8 +11,7 @@ permalink: /references/intrigues/
 
 | Intrigue ID | Intrigues | Post |
 |:--------| :--- | :--- |
-| - | - | - |
-<!--| F1-R3-INT01 | Keyhole Panel | [The Keyhole Panel (F1-R3)](/posts/F1-R3) |-->
+| F1-R3-INT01 | Keyhole Panel | [The Keyhole Panel (F1-R3)](/posts/F1-R3) |
 
 </details>
 &nbsp;
