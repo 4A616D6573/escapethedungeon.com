@@ -5,10 +5,10 @@ date: 2020-04-20
 categories: room update
 permalink: /posts/F1-R4/
 published: true
-excerpt: A stadium shaped room, with partially blackened frescos on the walls. A large grey shape is blocking the eastern side of the room.
+excerpt: A stadium shaped room with partially blackened frescos on the walls. A large grey shape is blocking the eastern side of the room.
 ---
 
-A stadium shaped room, with partially blackened frescos on the walls. A large grey shape is blocking the eastern side of the room.
+A stadium shaped room with partially blackened frescos on the walls. A large grey shape is blocking the eastern side of the room.
 
 On the southern side is an open passageway and the western side are thicken wooden double doors.
 
