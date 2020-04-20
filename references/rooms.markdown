@@ -11,3 +11,4 @@ permalink: /references/rooms/
 | F1-R1 | The Cylinder Cells | 1 | 1 | [The Cylinder Cells (F1-R1)](/posts/F1-R1) |
 | F1-R2 | The Sorting Room | 1 | 2 | [The Sorting Room (F1-R2)](/posts/F1-R2) |
 | F1-R3 | The Keyhole Panel | 1 | 3 | [The Keyhole Panel (F1-R3)](/posts/F1-R3) |
+| F1-R4 | The Sleeping Beauty | 1 | 4 | [The Sleeping Beauty (F1-R3)](/posts/F1-R4) |
