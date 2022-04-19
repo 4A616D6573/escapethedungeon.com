@@ -11,7 +11,7 @@ permalink: /references/floors/
 
 ## Floor One
 
-{% svg "assets/maps/floors/escapethedungeon-f1.svg" display="block" %}
+<!-- {% svg "assets/maps/floors/escapethedungeon-f1.svg" display="block" %}-->
 
 </details>
 &nbsp;
