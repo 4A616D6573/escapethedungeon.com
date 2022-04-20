@@ -10,7 +10,7 @@ Hi, welcome to Escape the Dungeon. A blog created to provide quick and easy adve
 
 Players will start in the first room on the first floor and will be free to explore the connected rooms. Rooms will include a least one focus point and may contain items or characters that can be collected or interacted with.
 
-Rooms will be created through inspiration or generated randomly with the assistance of random tables. Rooms will generally posted on Monday, Wednesday, and Fridays, time permitting.
+Rooms will be created through inspiration or generated randomly with the assistance of random tables.
 
 These rooms are designed to be system agnostic, attempts will be made to suggest the relevant approach to the Game Master but ultimately it is up to you/them.
 
