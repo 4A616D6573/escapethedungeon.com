@@ -18,7 +18,7 @@ jobs:
     name: Copy content of _site folder to gh-pages branch
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2_site folder to gh-pages branch
+      - uses: actions/checkout@v2
       - name: copy
         env:
           SRC_FOLDER_PATH: '_site'
