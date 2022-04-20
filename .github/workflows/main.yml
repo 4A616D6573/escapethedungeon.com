@@ -24,7 +24,7 @@ jobs:
           SRC_FOLDER_PATH: '_site'
           TARGET_BRANCH: 'gh-pages'
         run: |
-          files=$(find _site/ -type f | sed 's/^_site\///') # get the file list
+          files=$(find _site/ -type f) # get the file list
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git fetch                         # fetch branches
