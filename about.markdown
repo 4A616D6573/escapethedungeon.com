@@ -20,7 +20,7 @@ Each room will include:
 - 1 or more focus points, either combat, encounter or a challenge.
 - A Game Masters Reference containing a number of pieces of information.
 
-Options can also be added with a daily 1d20 roll.
+Options can also be added with a 1d20 roll.
 
 | Roll | Option |
 |:--------| :--- |
