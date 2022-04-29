@@ -74,7 +74,7 @@ commonmark:
   extensions: ["table"]
 
 # Google Analytics
-google_analytics: UA-93962375-2
+google_analytics: G-WEJJG7VX6H
 
 # Show Excerpts
 show_excerpts: true
